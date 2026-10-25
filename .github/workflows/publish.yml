@@ -16,7 +16,7 @@ concurrency:
 
 env:
   HUGO_VERSION: 0.168.0
-  # Switch to "production" at DNS cutover; anything else renders noindex.
+  # Anything other than "production" renders noindex.
   HUGO_ENVIRONMENT: production
 
 jobs:
@@ -24,29 +24,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v7
-      - id: pages
-        uses: actions/configure-pages@v6
+      - uses: actions/configure-pages@v6
       - name: Install Hugo
         run: |
           curl -fsSL -o hugo.deb "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb"
           sudo dpkg -i hugo.deb
-      - name: Validate production build
-        run: hugo --minify --gc && python3 tools/validate.py
-      - name: Build for Pages
-        # ponytail: project-path shim (/wapnet-blog/) for the l0g0ff.github.io staging copy.
-        # canonifyURLs fixes root-relative content links; the sed fixes theme absURL output
-        # (pagination, covers) that Hugo resolves against the host root. Delete this step's
-        # extras at cutover, when the site is served from the domain root.
-        run: |
-          rm -rf public
-          base="${{ steps.pages.outputs.base_url }}"
-          origin="${base%/*}"
-          HUGO_CANONIFYURLS=true hugo --minify --gc --environment "$HUGO_ENVIRONMENT" --baseURL "$base/"
-          if [ "${base#https://*/}" != "$base" ]; then  # only when served from a sub-path
-            find public -type f \( -name '*.html' -o -name '*.xml' \) -exec sed -i \
-              "s#$base/#__BASE__#g; s#$origin/#$base/#g; s#__BASE__#$base/#g" {} +
-            ! grep -rhoE "$origin/[^ >\"]*" --include=*.html --include=*.xml public | grep -v "^$base/"
-          fi
+      - name: Build and validate
+        # baseURL comes from hugo.yaml (https://blog.wapnet.nl).
+        run: hugo --minify --gc --environment "$HUGO_ENVIRONMENT" && python3 tools/validate.py
       - uses: actions/upload-pages-artifact@v5
         with:
           path: public

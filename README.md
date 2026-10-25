@@ -28,10 +28,8 @@ hugo --minify --gc && python3 tools/validate.py
 
 `tools/validate.py` fails the build if any original WordPress URL, upload, or legacy download goes missing.
 
-## Going live
+## Hosting
 
-The workflow currently builds with `HUGO_ENVIRONMENT: staging`, which adds `noindex` so the Pages copy does not compete with the live WordPress site. At cutover:
+Served by GitHub Pages on the custom domain `blog.wapnet.nl` (`static/CNAME`). DNS lives in Cloudflare: `blog` is a `CNAME` to `l0g0ff.github.io`.
 
-1. Add `static/CNAME` containing `blog.wapnet.nl` and set the custom domain in **Settings → Pages**.
-2. Change `HUGO_ENVIRONMENT` to `production` and drop the `HUGO_CANONIFYURLS` line in `.github/workflows/publish.yml`.
-3. Point the `blog.wapnet.nl` DNS record at GitHub Pages.
+Rollback: point `blog` back at the old WordPress host `185.104.29.138` (A record). The WordPress install at ZXCS is kept frozen as a fallback.

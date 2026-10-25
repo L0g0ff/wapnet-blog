@@ -1,0 +1,20 @@
+/* PayPal-style donate button, as eye-catching as the old WordPress one. */
+.paypal-donation a {
+  display: inline-flex;
+  align-items: center;
+  gap: .5em;
+  min-height: 44px;
+  padding: .6em 1.6em;
+  border-radius: 999px;
+  background: #ffc439;
+  color: #003087;
+  font-weight: 700;
+  text-decoration: none;
+  box-shadow: 0 2px 6px rgb(0 0 0 / .2);
+}
+.paypal-donation a:hover { background: #f2ba36; }
+.paypal-donation a:focus-visible { outline: 3px solid #003087; outline-offset: 3px; }
+@media (prefers-reduced-motion: no-preference) {
+  .paypal-donation a { transition: transform .15s; }
+  .paypal-donation a:hover { transform: translateY(-1px); }
+}

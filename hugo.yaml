@@ -21,7 +21,7 @@ params:
   comments: true
   hideFooter: true
   assets:
-    favicon: /favicon.ico
+    favicon: favicon.ico
     disableHLJS: true
   author:
     name: Thomas Faddegon
@@ -45,11 +45,11 @@ outputFormats:
 menu:
   main:
     - name: About
-      url: /about/
+      url: about/
       weight: 10
     - name: Archives
-      url: /all/
+      url: all/
       weight: 20
     - name: Search
-      url: /search/
+      url: search/
       weight: 30

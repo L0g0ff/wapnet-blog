@@ -31,7 +31,12 @@ jobs:
           sudo dpkg -i hugo.deb
       - name: Build and validate
         # baseURL comes from hugo.yaml (https://blog.wapnet.nl).
-        run: hugo --minify --gc --environment "$HUGO_ENVIRONMENT" && python3 tools/validate.py
+        run: |
+          hugo --minify --gc --environment "$HUGO_ENVIRONMENT"
+          python3 tools/validate.py
+          # Old WordPress feed URL; Pages has no redirects, so serve the RSS there too.
+          # ponytail: Pages serves this as text/html; most readers sniff RSS anyway. Move hosting if a reader needs the real MIME type.
+          mkdir -p public/feed && cp public/feed.xml public/feed/index.html
       - uses: actions/upload-pages-artifact@v5
         with:
           path: public

@@ -1,0 +1,8 @@
+source/
+import-output/
+public/
+resources/_gen/
+.hugo_build.lock
+# Host-specific operator scripts stay local.
+tools/backup.sh
+tools/preview.sh

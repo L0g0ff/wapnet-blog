@@ -1,0 +1,19 @@
+{{- /* Fixed tech background behind a translucent content panel, like the old WordPress site. */ -}}
+{{- with resources.Get "images/bg-tech.png" }}
+{{- $bg := .Resize "1920x webp q78" }}
+<style>
+  body, body.list, [data-theme] body.list {
+    background: var(--theme) url({{ $bg.RelPermalink }}) right top / cover no-repeat fixed;
+  }
+  .header, .main, .footer {
+    background: rgb(255 255 255 / .9);
+  }
+  .main { border-radius: 0 0 12px 12px; }
+  [data-theme="dark"] .header, [data-theme="dark"] .main, [data-theme="dark"] .footer {
+    background: rgb(29 30 32 / .92);
+  }
+  @media (max-width: 768px) {
+    body, body.list, [data-theme] body.list { background-attachment: scroll; }
+  }
+</style>
+{{- end }}

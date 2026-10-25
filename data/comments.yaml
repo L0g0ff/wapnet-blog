@@ -1,0 +1,1524 @@
+- id: "1"
+  author_name: Mr WordPress
+  author_email: ""
+  author_url: http://wordpress.org/
+  published: 2008-01-18T22:18:41Z
+  parent_id: "0"
+  content: Hi, this is a comment.<br />To delete a comment, just log in and view the post&#039;s comments. There you will have the option to edit or delete them.
+  post_url: /2008/01/hello-world/
+  post_id: "1"
+- id: "2"
+  author_name: admin
+  author_email: thomas@wapnet.nl
+  author_url: http://wapnet.nl
+  published: 2008-01-18T23:08:04Z
+  parent_id: "0"
+  content: Yeah :)
+  post_url: /2008/01/7/
+  post_id: "7"
+- id: "3"
+  author_name: admin
+  author_email: thomas@wapnet.nl
+  author_url: http://wapnet.nl
+  published: 2008-01-22T13:21:13Z
+  parent_id: "0"
+  content: Hufters zijn het...
+  post_url: /2008/01/wipneus-en-pim-spamgang/
+  post_id: "10"
+- id: "4"
+  author_name: Bas
+  author_email: balphen@hotmail.com
+  author_url: ""
+  published: 2008-01-23T12:13:08Z
+  parent_id: "0"
+  content: |-
+    zure sessie barends!!!
+
+    klotehakkers!!!!!!!!!
+
+    eigenlijk zouden we ze terug moeten kunnen pakken op een of andere manier maar ja da zal wel niet meevallen denk ik zo
+  post_url: /2008/01/wipneus-en-pim-spamgang/
+  post_id: "10"
+- id: "6"
+  author_name: Wilma
+  author_email: mutsmuis@hotmail.com
+  author_url: ""
+  published: 2008-01-24T10:26:03Z
+  parent_id: "0"
+  content: Echt zwaaaaaaaaaar irritant!!
+  post_url: /2008/01/wipneus-en-pim-spamgang/
+  post_id: "10"
+- id: "7"
+  author_name: kim
+  author_email: kimbastiaansen@hotmail.com
+  author_url: ""
+  published: 2008-01-25T16:46:20Z
+  parent_id: "0"
+  content: klote zooi idd
+  post_url: /2008/01/wipneus-en-pim-spamgang/
+  post_id: "10"
+- id: "8"
+  author_name: Mijntje
+  author_email: mijntjedb@hotmail.com
+  author_url: ""
+  published: 2008-01-25T19:50:13Z
+  parent_id: "0"
+  content: Kut zo zeg hoe moet ik nu Sog'en??
+  post_url: /2008/01/wipneus-en-pim-spamgang/
+  post_id: "10"
+- id: "10"
+  author_name: Bernd
+  author_email: berndmusic@gmail.com
+  author_url: ""
+  published: 2008-01-29T10:41:36Z
+  parent_id: "0"
+  content: hoet moet je wat?
+  post_url: /2008/01/wipneus-en-pim-spamgang/
+  post_id: "10"
+- id: "11"
+  author_name: Anki
+  author_email: sjonguh@hotmail.com
+  author_url: ""
+  published: 2008-01-29T10:54:44Z
+  parent_id: "0"
+  content: Die eikels hebben gewoon mijn dagbesteding naar de kl*te geholpen! Nu moet ik de hele dag gaan zitten hyven..
+  post_url: /2008/01/wipneus-en-pim-spamgang/
+  post_id: "10"
+- id: "5"
+  author_name: Bas
+  author_email: balphen@hotmail.com
+  author_url: ""
+  published: 2008-01-23T12:20:21Z
+  parent_id: "0"
+  content: |-
+    pfff, je zal zo'n beesje in huis hebben eh. Dan zal je een stinkende kattebak hebben. (ever ervan uitgaande dat zo'n beest in proporties zit te scheiten) :-p
+
+
+    haahaa je zal na het werk thuis komen en dan zo'n beest in je gordijnen hebben hangen.........
+  post_url: /2008/01/reuze-kat/
+  post_id: "11"
+- id: "9"
+  author_name: Mijntje
+  author_email: mijntjedb@hotmail.com
+  author_url: ""
+  published: 2008-01-28T17:11:03Z
+  parent_id: "0"
+  content: Ik ook hebben :) wie helpt er sparen :p
+  post_url: /2008/01/reuze-kat/
+  post_id: "11"
+- id: "12"
+  author_name: Wilma
+  author_email: mutsmuis@hotmail.com
+  author_url: ""
+  published: 2008-01-30T10:41:15Z
+  parent_id: "0"
+  content: joehoe site weer online!!
+  post_url: /2008/01/let-op/
+  post_id: "13"
+- id: "13"
+  author_name: Anki
+  author_email: sjonguh@hotmail.com
+  author_url: ""
+  published: 2008-01-30T11:59:26Z
+  parent_id: "0"
+  content: Jippie!! Mijn dagbesteding komt weer terug!!
+  post_url: /2008/01/let-op/
+  post_id: "13"
+- id: "153"
+  author_name: Kent28Estelle
+  author_email: saraward@mail333.com
+  author_url: http://www.bestfinance-blog.com
+  published: 2010-10-05T00:56:34Z
+  parent_id: "0"
+  content: All people deserve very good life and <a href="http://bestfinance-blog.com/topics/mortgage-loans" rel="nofollow">mortgage loans</a> or just collateral loan would make it better. Because people's freedom is based on money.
+  post_url: /2008/03/getlibs-automatically-solves-dependencies-for-32-bit-programs-on-64-bit/
+  post_id: "32"
+- id: "169"
+  author_name: victor
+  author_email: victorhe001@yahoo.com
+  author_url: ""
+  published: 2011-07-15T10:25:23Z
+  parent_id: "0"
+  content: there is anoter choice for your converting youtube to video.you can get more details in "Leawo Easy YouTube Converter Suite" .thanks.
+  post_url: /2008/10/youtube-to-ipod-converter/
+  post_id: "98"
+- id: "170"
+  author_name: admin
+  author_email: thomas@wapnet.nl
+  author_url: http://wapnet.nl
+  published: 2011-07-15T21:11:31Z
+  parent_id: "0"
+  content: Yes but that isn't free...
+  post_url: /2008/10/youtube-to-ipod-converter/
+  post_id: "98"
+- id: "145"
+  author_name: VinsonLoraine19
+  author_email: barbarajackson@mail15.com
+  author_url: http://www.lowest-rate-loans.com
+  published: 2010-06-02T05:23:36Z
+  parent_id: "0"
+  content: The <a href="http://lowest-rate-loans.com/topics/business-loans" rel="nofollow">business loans</a> are useful for guys, which want to ground their business. In fact, it's not very hard to receive a bank loan.
+  post_url: /2008/10/unetbootin-universal-netboot-installer/
+  post_id: "132"
+- id: "139"
+  author_name: Hosting
+  author_email: mark.devries@nxs.nl
+  author_url: http://www.nxs.nl/
+  published: 2010-01-14T10:34:09Z
+  parent_id: "0"
+  content: |-
+    Erg leuk artikel;
+
+    Staat echter wel een typfout in;
+     - Hoe ESX Serer de resources beheerd:
+     Moet natuurlijk server zijn.
+
+    Voor de rest is het een erg mooi artikel en zeker handig.
+  post_url: /2008/12/braindump-vmware-vcp-dutch/
+  post_id: "158"
+- id: "141"
+  author_name: admin
+  author_email: thomas@wapnet.nl
+  author_url: http://wapnet.nl
+  published: 2010-01-15T16:50:16Z
+  parent_id: "0"
+  content: |-
+    Haha, het is een dump :P Ik denk dat er wel meerdere spelfouten in staan. Het is iig fijn als ik er iemand anders mee kan helpen.
+
+    Ik heb mijn VCP iig binnen ;)
+  post_url: /2008/12/braindump-vmware-vcp-dutch/
+  post_id: "158"
+- id: "127"
+  author_name: crabster
+  author_email: crabby@gmail.com
+  author_url: http://www.reabo.co.uk/_tutorials/softmod-nintendo
+  published: 2009-10-16T13:07:12Z
+  parent_id: "0"
+  content: |-
+    http://www.reabo.co.uk/_tutorials/softmod-nintendo-wii.aspx
+
+    Has a guide on how to use it
+  post_url: /2009/02/softmod-your-wii-gamma-pack-l0g0ff-edition/
+  post_id: "172"
+- id: "129"
+  author_name: admin
+  author_email: thomas@wapnet.nl
+  author_url: http://wapnet.nl
+  published: 2009-11-06T16:41:42Z
+  parent_id: "0"
+  content: The guide is in the zip file also.
+  post_url: /2009/02/softmod-your-wii-gamma-pack-l0g0ff-edition/
+  post_id: "172"
+- id: "65"
+  author_name: Wapnet Blog &raquo; Blog Archive &raquo; Flash your HTC S710 (VOX) to 6.5
+  author_email: ""
+  author_url: https://blog.wapnet.nl/?p=197
+  published: 2009-07-11T15:16:16Z
+  parent_id: "0"
+  content: '[...] an earlier article I wrote how to flash the S710 to a nice 6.1 Windows Mobile rom. Now the 6.5 version is out a German [...]'
+  post_url: /2009/04/flash-your-htc-s710-vox/
+  post_id: "179"
+- id: "168"
+  author_name: admin
+  author_email: thomas@wapnet.nl
+  author_url: http://wapnet.nl
+  published: 2011-07-08T07:48:13Z
+  parent_id: "0"
+  content: |-
+    Hi Emma.
+    Is the image file corrupt? I will check the file ASAP en let you know the status.
+    Regards,
+    Thomas
+  post_url: /2009/04/flash-your-htc-s710-vox/
+  post_id: "179"
+- id: "132"
+  author_name: Abhilash R
+  author_email: abhilashr3@gmail.com
+  author_url: ""
+  published: 2009-12-02T17:15:51Z
+  parent_id: "0"
+  content: "I am Abhilash\ni have HTC s710 Windows Mobile 6.0\ni downloaded the 65v11.exe from u r blog \n\nis any my existing memory can do upgrade \nwhat r the steps behind this\nis there any wasy to downgrade to 6.0\nRegards\nAbhilash"
+  post_url: /2009/07/flash-your-htc-s710-vox-to-65/
+  post_id: "197"
+- id: "137"
+  author_name: admin
+  author_email: thomas@wapnet.nl
+  author_url: http://wapnet.nl
+  published: 2009-12-23T12:20:11Z
+  parent_id: "132"
+  content: |-
+    Hi Abhilash,
+
+    Yes, you can always flash the original HTC S710 firmware back to restore your phone.
+    More info about the rom you can find on the XDA Community forums. There is a direct link on this blog post.
+
+    Hope this helps!
+
+    Regards,
+    Thomas
+  post_url: /2009/07/flash-your-htc-s710-vox-to-65/
+  post_id: "197"
+- id: "166"
+  author_name: botzo
+  author_email: andy_botzo@yahoo.com
+  author_url: http://.
+  published: 2011-06-10T13:03:04Z
+  parent_id: "0"
+  content: Any tips how do i do it? How i flash my phone because i don't want to break it:D, thanks in advance.
+  post_url: /2009/07/flash-your-htc-s710-vox-to-65/
+  post_id: "197"
+- id: "167"
+  author_name: Emma
+  author_email: nketiaemmanuel@yahoo.fr
+  author_url: ""
+  published: 2011-07-06T21:17:13Z
+  parent_id: "0"
+  content: haw do we fixed it when the image file is corrupted
+  post_url: /2009/07/flash-your-htc-s710-vox-to-65/
+  post_id: "197"
+- id: "172"
+  author_name: admin
+  author_email: thomas@wapnet.nl
+  author_url: http://wapnet.nl
+  published: 2011-07-21T20:44:40Z
+  parent_id: "0"
+  content: Hi Emma, I checked the file and everything works fine. Can you please explain what your problem is in detail?
+  post_url: /2009/07/flash-your-htc-s710-vox-to-65/
+  post_id: "197"
+- id: "173"
+  author_name: Geert
+  author_email: geert.huisman@gmail.com
+  author_url: ""
+  published: 2011-08-05T20:20:02Z
+  parent_id: "0"
+  content: "hi, \nI encounter the same issue as Emma.\nI started the flash.exe and the procedure starts. Then after 3% the device turns off and an error (at the PC) is displayed: 'Image file is corrupted'\n\ndo you have any suggestion how to fix?\n\nThanks!"
+  post_url: /2009/07/flash-your-htc-s710-vox-to-65/
+  post_id: "197"
+- id: "174"
+  author_name: admin
+  author_email: thomas@wapnet.nl
+  author_url: http://wapnet.nl
+  published: 2011-08-06T11:04:56Z
+  parent_id: "0"
+  content: |-
+    Hi Geert,
+
+    I changed the article with the <a href="https://blog.wapnet.nl/upload/65officialv10.exe" rel="nofollow">latest 6.5 ROM from frauhottelmann</a>. If you have some troubles feel free to ask ;)<code>
+  post_url: /2009/07/flash-your-htc-s710-vox-to-65/
+  post_id: "197"
+- id: "273"
+  author_name: srefan
+  author_email: calimaus06@hotmail.de
+  author_url: ""
+  published: 2012-09-19T14:38:41Z
+  parent_id: "0"
+  content: er sagt mir immer image fehler 270
+  post_url: /2009/07/flash-your-htc-s710-vox-to-65/
+  post_id: "197"
+- id: "274"
+  author_name: srefan
+  author_email: calimaus06@hotmail.de
+  author_url: ""
+  published: 2012-09-19T14:39:30Z
+  parent_id: "0"
+  content: error message 270 bitte um hilfe
+  post_url: /2009/07/flash-your-htc-s710-vox-to-65/
+  post_id: "197"
+- id: "398"
+  author_name: bruxie
+  author_email: bctechy@live.com
+  author_url: ""
+  published: 2013-06-09T16:49:57Z
+  parent_id: "0"
+  content: For crist sake answer the f...ckn queation this shit is crushin at 3% how the fuck did you test it ?
+  post_url: /2009/07/flash-your-htc-s710-vox-to-65/
+  post_id: "197"
+- id: "399"
+  author_name: bruxie
+  author_email: bctechy@live.com
+  author_url: ""
+  published: 2013-06-09T17:41:25Z
+  parent_id: "0"
+  content: |-
+    ok guys im back.
+    i solved the "3%" problem .it goes like this:
+    1. Run SDA application unlock
+    2. click remove lock
+    3. go to VOX_USPL folder and run a batch file inside it (you will be required to press enter for a number of times)
+    4. then go to you utility and run it !
+
+    it worked Dr srefan thanks u fuckn good but nt as good as me!
+  post_url: /2009/07/flash-your-htc-s710-vox-to-65/
+  post_id: "197"
+- id: "400"
+  author_name: Thomas Faddegon
+  author_email: thomas@wapnet.nl
+  author_url: http://wapnet.nl
+  published: 2013-06-09T22:14:44Z
+  parent_id: "0"
+  content: '@bruxie, tnx for your feedback. But please keep in mind that I host this blog for fun. I don''t have the S720 phone any more since a 5 years now so I can''t test this ROM and problems.'
+  post_url: /2009/07/flash-your-htc-s710-vox-to-65/
+  post_id: "197"
+- id: "126"
+  author_name: Ntp Troubleshooting | Wapnet Blog
+  author_email: ""
+  author_url: http://stocks.findfrenzy.com/2009/10/04/ntp-troubleshooting-wapnet-blog/
+  published: 2009-10-05T11:23:29Z
+  parent_id: "0"
+  content: '[...] &#8230; offset 28993.084943 sec [root@smallfry tmp]# ntpdate -u 192.168.1.100 Looking for host 192.168.1.100 and service ntp host found : bigboy.my-site.com 12 Aug 08:03:40 ntpdate[2472]: step time server 192.168.1.100 offset 2.467652 sec &#8230;More [...]'
+  post_url: /2009/08/ntp-troubleshooting/
+  post_id: "203"
+- id: "143"
+  author_name: Ammer
+  author_email: ammer83@gmail.com
+  author_url: ""
+  published: 2010-03-06T01:40:36Z
+  parent_id: "0"
+  content: |-
+    Hi,
+    Goeie guide, alleen ik krijg hem niet aan de praat. Ik MCETuningOverrides.xml bewerkt, en opgeslagen (na wat met de admin rights gevochten te hebben)(WIN7) maar op een of andere manier negeert media center mijn veranderingen helemaal.
+
+    Enig idee waarom??
+
+    Groet
+  post_url: /2009/09/tv-kanalen-epg-zelf-configureren-dutch/
+  post_id: "227"
+- id: "142"
+  author_name: Wii
+  author_email: whuberts@mariowii.nl
+  author_url: http://www.mariowii.nl
+  published: 2010-01-23T22:09:41Z
+  parent_id: "0"
+  content: I have tries it, and it... works! Thanks!!
+  post_url: /2009/11/usb-loaders-for-wii-and-howto-dump-your-games-to-usb-hd/
+  post_id: "277"
+- id: "148"
+  author_name: TeresaDalton
+  author_email: pamelathorn@mail15.com
+  author_url: http://www.lowest-rate-loans.com
+  published: 2010-06-15T07:36:10Z
+  parent_id: "0"
+  content: I received 1 st <a href="http://lowest-rate-loans.com/topics/business-loans" rel="nofollow">business loans</a> when I was 32 and it aided my relatives a lot. However, I require the college loan over again.
+  post_url: /2009/11/usb-loaders-for-wii-and-howto-dump-your-games-to-usb-hd/
+  post_id: "277"
+- id: "134"
+  author_name: asdf
+  author_email: asdf.asdf@asdf.as
+  author_url: ""
+  published: 2009-12-17T20:18:35Z
+  parent_id: "0"
+  content: don't understand. So this does not work on my hardmodded wii?
+  post_url: /2009/12/wii-how-tho-patch-new-super-mario-bros/
+  post_id: "286"
+- id: "135"
+  author_name: admin
+  author_email: thomas@wapnet.nl
+  author_url: http://wapnet.nl
+  published: 2009-12-22T19:59:33Z
+  parent_id: "134"
+  content: Some chips have some read problems also. This is how I fixed is for people with hard and with softmods.
+  post_url: /2009/12/wii-how-tho-patch-new-super-mario-bros/
+  post_id: "286"
+- id: "146"
+  author_name: vikisa@mail.ru
+  author_email: ""
+  author_url: http://www.ivov.ru/
+  published: 2010-06-10T09:53:55Z
+  parent_id: "0"
+  content: <a href="http://ivov.ru" rel="nofollow"> </a>
+  post_url: /2010/01/nice-debian-sudo-quote/
+  post_id: "311"
+- id: "147"
+  author_name: Vikusik
+  author_email: vikisa@mail.ru
+  author_url: http://www.ivov.ru/
+  published: 2010-06-10T09:54:50Z
+  parent_id: "0"
+  content: <a href="http://ivov.ru" rel="nofollow"> </a>
+  post_url: /2010/01/nice-debian-sudo-quote/
+  post_id: "311"
+- id: "138"
+  author_name: Bertje
+  author_email: maknieuit@gewitmeweltevinden.nl
+  author_url: http://dasokniebelangrijk
+  published: 2010-01-13T15:26:21Z
+  parent_id: "0"
+  content: |-
+    very handy :)
+
+    http://extensions.joomla.org/extensions/extension-specific/migrator-extensions
+  post_url: /2010/01/migrate-my-joomla-1-0-15-to-1-5-x/
+  post_id: "313"
+- id: "140"
+  author_name: admin
+  author_email: thomas@wapnet.nl
+  author_url: http://wapnet.nl
+  published: 2010-01-15T16:48:14Z
+  parent_id: "0"
+  content: Tnx, ik had die ook gezien ja. Het is wel een hele kunst om zo'n migratie uit te voeren. Ik heb trouwens samen met Lizanne ook al een nieuw template gebouwd omdat die oude niet compatible is ;)
+  post_url: /2010/01/migrate-my-joomla-1-0-15-to-1-5-x/
+  post_id: "313"
+- id: "203"
+  author_name: vonk
+  author_email: destratemaker@gmail.com
+  author_url: ""
+  published: 2012-01-13T22:42:32Z
+  parent_id: "0"
+  content: hoi mooiwark man
+  post_url: /2011/01/softmod-your-wii-dutch/
+  post_id: "233"
+- id: "144"
+  author_name: RoxieMCMILLAN
+  author_email: jenifer.bond46@gmail.com
+  author_url: http://www.lowest-rate-loans.com
+  published: 2010-04-05T04:27:39Z
+  parent_id: "0"
+  content: I had got a dream to begin my own firm, nevertheless I did not earn enough amount of money to do that. Thank goodness my dude told to take the <a href="http://lowest-rate-loans.com/topics/mortgage-loans" rel="nofollow">mortgage loans</a>. Thence I received the college loan and made real my desire.
+  post_url: /2010/02/boot-linux-live-distro-from-usb/
+  post_id: "360"
+- id: "151"
+  author_name: Kevin
+  author_email: modkons@gmail.com
+  author_url: ""
+  published: 2010-08-16T21:05:39Z
+  parent_id: "0"
+  content: 'If you''re looking for a XBMC Media Center PC, but don''t want to build one yourself, you should check out Modified Konstruct''s custom media center PC. It''s a an Acer Aspire Revo chassis with a XBMC install. And it''s only $300. Here''s the link: http://www.modifiedkonstructs.com/our-services/mk-x1'
+  post_url: /2010/04/howto-build-the-cheapest-xbmc-high-definition-media-center-ever-a-k-a-xbox1-softmod/
+  post_id: "369"
+- id: "156"
+  author_name: Jason
+  author_email: ""
+  author_url: ""
+  published: 2010-12-06T08:50:05Z
+  parent_id: "0"
+  content: "When I get to the step:\n$ sudo cp wl.ko /lib/modules/`uname -r`/kernel/drivers/net/wireless\n\nI get this error:\ncp: target '/kernel/drivers/net/wireless' is not a directory. \n\nCould you please help me?"
+  post_url: /2010/10/install-meego-on-dell-mini-9-with-wireless-support/
+  post_id: "429"
+- id: "157"
+  author_name: admin
+  author_email: thomas@wapnet.nl
+  author_url: http://wapnet.nl
+  published: 2010-12-07T00:53:08Z
+  parent_id: "0"
+  content: "you must give a uname -r first. That is your current linux/meego build. \n\nIf you have the current build please use the following command:\n\nsudo cp wl.ko /lib/modules/CURRENTBUILD/kernel/drivers/net/wireless\n\nHope this helps!\n\nRegards,\nThomas"
+  post_url: /2010/10/install-meego-on-dell-mini-9-with-wireless-support/
+  post_id: "429"
+- id: "217"
+  author_name: dennisapol
+  author_email: ""
+  author_url: ""
+  published: 2012-03-30T12:02:13Z
+  parent_id: "0"
+  content: |-
+    that single line is just what i needed!!
+    thanks mate..
+  post_url: /2010/11/a-revocation-check-could-not-be-performed-for-the-certificate/
+  post_id: "450"
+- id: "228"
+  author_name: anon
+  author_email: example@example.com
+  author_url: ""
+  published: 2012-05-08T21:13:59Z
+  parent_id: "0"
+  content: The one line edit worked perfectly.  Thank you!
+  post_url: /2010/11/a-revocation-check-could-not-be-performed-for-the-certificate/
+  post_id: "450"
+- id: "260"
+  author_name: Bert
+  author_email: b.van.beers@global-e.nl
+  author_url: ""
+  published: 2012-08-27T16:11:59Z
+  parent_id: "0"
+  content: |-
+    Glad that wapnet could help !!
+
+    Thanks.
+  post_url: /2010/11/a-revocation-check-could-not-be-performed-for-the-certificate/
+  post_id: "450"
+- id: "281"
+  author_name: Kay
+  author_email: a@b.c
+  author_url: ""
+  published: 2012-10-12T13:28:11Z
+  parent_id: "0"
+  content: Thanks, this solved my problem.
+  post_url: /2010/11/a-revocation-check-could-not-be-performed-for-the-certificate/
+  post_id: "450"
+- id: "160"
+  author_name: SSL Certificates
+  author_email: clickssl123@gmail.com
+  author_url: http://www.clickssl.com
+  published: 2011-01-07T08:29:45Z
+  parent_id: "0"
+  content: Keep the faith, my Internet friend. You are a first-class writer and deserve to be heard.
+  post_url: /2010/12/install-thawte-ssl-webserver-or-wildcard-the-quick-way/
+  post_id: "494"
+- id: "177"
+  author_name: John Binhyen
+  author_email: john114.binhyen@yahoo.com
+  author_url: ""
+  published: 2011-09-24T16:35:32Z
+  parent_id: "0"
+  content: "Thank you very much.  Your instruction is the best regarding figuring out the way to update Android driver.  I followed through was able to connect.  \n\nJohn114"
+  post_url: /2011/03/windows-7-x64-android-sdk-example-connect-htc-desire/
+  post_id: "549"
+- id: "178"
+  author_name: admin
+  author_email: thomas@wapnet.nl
+  author_url: http://wapnet.nl
+  published: 2011-09-24T16:58:01Z
+  parent_id: "0"
+  content: your welcome :)
+  post_url: /2011/03/windows-7-x64-android-sdk-example-connect-htc-desire/
+  post_id: "549"
+- id: "267"
+  author_name: abhinav
+  author_email: abhinavmittra@rediffmail.com
+  author_url: http://nowebsite
+  published: 2012-09-07T12:40:00Z
+  parent_id: "0"
+  content: pls help me i got a HTC Desire C please help i am not able to do so :(.
+  post_url: /2011/03/windows-7-x64-android-sdk-example-connect-htc-desire/
+  post_id: "549"
+- id: "293"
+  author_name: Nicholas
+  author_email: lookbadgers@live.co.uk
+  author_url: ""
+  published: 2012-12-04T18:00:25Z
+  parent_id: "0"
+  content: Thank you, can confirm it works for Desire C
+  post_url: /2011/03/windows-7-x64-android-sdk-example-connect-htc-desire/
+  post_id: "549"
+- id: "395"
+  author_name: Shiva
+  author_email: marshallmatersbruce@gmail.com
+  author_url: ""
+  published: 2013-05-29T10:05:14Z
+  parent_id: "0"
+  content: Thanks A Million!
+  post_url: /2011/03/windows-7-x64-android-sdk-example-connect-htc-desire/
+  post_id: "549"
+- id: "338"
+  author_name: aaa
+  author_email: a@der.nb
+  author_url: http://www.der.vn
+  published: 2013-03-25T23:16:12Z
+  parent_id: "0"
+  content: worst not found in market
+  post_url: /2011/03/android-2-2-install-all-apps-to-sd-even-the-unsupported-apps/
+  post_id: "554"
+- id: "339"
+  author_name: aaa
+  author_email: a@der.nb
+  author_url: http://www.der.vn
+  published: 2013-03-25T23:17:42Z
+  parent_id: "0"
+  content: modinstalllocation where to find it I had tried it in Google play did not found
+  post_url: /2011/03/android-2-2-install-all-apps-to-sd-even-the-unsupported-apps/
+  post_id: "554"
+- id: "163"
+  author_name: Antonin Hildebrand
+  author_email: antonin@hildebrand.cz
+  author_url: http://totalfinder.binaryage.com
+  published: 2011-05-01T18:54:38Z
+  parent_id: "0"
+  content: |-
+    Thanks for sharing this tip.
+
+    btw. TotalFinder offers this feature in a more robust way.
+
+    [disclaimer: I'm the author of TotalFinder]
+  post_url: /2011/04/osx-finder-sort-folder-before-file/
+  post_id: "565"
+- id: "164"
+  author_name: admin
+  author_email: thomas@wapnet.nl
+  author_url: http://wapnet.nl
+  published: 2011-05-01T22:59:51Z
+  parent_id: "0"
+  content: Yes I've tried the software and totalfinder is great but a paid app. Maybe I use it in the future ;)
+  post_url: /2011/04/osx-finder-sort-folder-before-file/
+  post_id: "565"
+- id: "179"
+  author_name: PacoBell
+  author_email: pacobell+wapnet_nl@gmail.com
+  author_url: ""
+  published: 2011-10-11T02:25:12Z
+  parent_id: "0"
+  content: The HTC site no longer seems to be hosting the fastboot binary :(
+  post_url: /2011/05/setup-adb-and-fastboot-with-android-sdk-on-mac-osx/
+  post_id: "576"
+- id: "180"
+  author_name: admin
+  author_email: thomas@wapnet.nl
+  author_url: http://wapnet.nl
+  published: 2011-10-13T15:39:49Z
+  parent_id: "0"
+  content: I see I try to get the Fastboot binary for OSX and mirror it on my blog :)
+  post_url: /2011/05/setup-adb-and-fastboot-with-android-sdk-on-mac-osx/
+  post_id: "576"
+- id: "181"
+  author_name: PacoBell
+  author_email: pacobell+wapet_nl@gmail.com
+  author_url: ""
+  published: 2011-10-14T20:56:14Z
+  parent_id: "0"
+  content: Thanks for the mirror. I ended up downloading a copy from the ClockworkMod blog. It's surprising that there aren't more mirrors out there. I guess people just expect you to compile AOSP yourself for the tools. Kinda hard when android.git.kernel.org is down, tho ;)
+  post_url: /2011/05/setup-adb-and-fastboot-with-android-sdk-on-mac-osx/
+  post_id: "576"
+- id: "182"
+  author_name: pyko
+  author_email: psychopyko@gmail.com
+  author_url: http://psychopyko.com
+  published: 2011-10-21T12:15:39Z
+  parent_id: "0"
+  content: |-
+    Just like to say a huge thanks!!!
+
+    Took me ages to realise that fastboot had mysteriously disappeared since last updating my SDK... finally stumbled across your site and all good now :)
+  post_url: /2011/05/setup-adb-and-fastboot-with-android-sdk-on-mac-osx/
+  post_id: "576"
+- id: "183"
+  author_name: admin
+  author_email: thomas@wapnet.nl
+  author_url: http://wapnet.nl
+  published: 2011-10-21T14:09:27Z
+  parent_id: "0"
+  content: Your welcome :)
+  post_url: /2011/05/setup-adb-and-fastboot-with-android-sdk-on-mac-osx/
+  post_id: "576"
+- id: "184"
+  author_name: Gregory
+  author_email: gergith@gmail.com
+  author_url: ""
+  published: 2011-11-08T18:33:56Z
+  parent_id: "0"
+  content: |-
+    For sake of OTHER people being able to find this page easy on Google (took me a while) I'll write my full experience to include important words.
+    I had troubles finding information for rooting my Xperia Arc after unlocking the bootloader (from help with the XDA forum).
+
+    You were the only page that explained how to install fastboot on mac. Also you include information to install adb on mac!
+
+    Things I would like to add to help YOU and other users!
+
+    The only package REQUIRED For installing ADB is: "Android SDK Platform-tools"
+    Everything else isn't required from what I have been reading at XDA.
+
+    Also; On Lion, it's hard to show hidden files for sake of finding bash_profile. After some searching, I learned that typing this in Terminal will show hidden files: “defaults write com.apple.Finder AppleShowAllFiles TRUE”  (Re-typing this with FALSE reverses it).
+
+    You can use TextEdit to create/edit the bash_profile file. Just make sure you save it as plain text.
+
+    Sorry for the big post, thank you very much for your post!
+    (I know this is a lot of information, I am technical but from a windows background so I have trouble with mac sometimes!)
+  post_url: /2011/05/setup-adb-and-fastboot-with-android-sdk-on-mac-osx/
+  post_id: "576"
+- id: "185"
+  author_name: Kelly Smith
+  author_email: sovzx2@gmail.com
+  author_url: ""
+  published: 2011-11-08T23:05:17Z
+  parent_id: "0"
+  content: |-
+    Gregory makes a good post.
+
+    That said, for you mac users who don't want to permanently alter the behavior (you will forget how to hide those files again) of your OSX installation, I would suggest using Terminal and "nano" to edit your .bash_profile file.
+  post_url: /2011/05/setup-adb-and-fastboot-with-android-sdk-on-mac-osx/
+  post_id: "576"
+- id: "186"
+  author_name: Gregory
+  author_email: gergith@gmail.com
+  author_url: ""
+  published: 2011-11-09T05:22:39Z
+  parent_id: "0"
+  content: "I agree that people will forget :) I made certain I reversed it when I was done: \n“defaults write com.apple.Finder AppleShowAllFiles FALSE”\n\nBut that's a solution :)"
+  post_url: /2011/05/setup-adb-and-fastboot-with-android-sdk-on-mac-osx/
+  post_id: "576"
+- id: "187"
+  author_name: Gregory
+  author_email: gergith@gmail.com
+  author_url: ""
+  published: 2011-11-09T21:16:37Z
+  parent_id: "0"
+  content: |-
+    Actually, scrap my advice, I agree with Kelly!
+
+    For the FULL command. In terminal, just type:
+    nano ~/.bash_profile
+
+    It will open up the file whether it is there or not, so no need to check.
+
+    Just make sure to save. BTW. ^ in that interface means control. So control+x to exit.
+
+    Thanks for the tip Kelly :)
+  post_url: /2011/05/setup-adb-and-fastboot-with-android-sdk-on-mac-osx/
+  post_id: "576"
+- id: "188"
+  author_name: Thomas
+  author_email: ""
+  author_url: ""
+  published: 2011-11-18T16:54:20Z
+  parent_id: "0"
+  content: "Thanks for the instructions and the link to fastboot-mac! A few things I ran into while doing this:\n1. The Android SDK now unzips to android-sdk-macosx, this should be changed in the PATHs above.\n2. fastboot-mac should be placed in /Users/(username)/Desktop/android-sdk-macosx/tools not in /tools/ \n3. To check if your fastboot-mac works there is no need to cd into the tools-directory, that's why it was added to the PATH.\n4. The phone should be rebooted into bootloader (and connected with a usb-cable) before you run fastboot-mac devices"
+  post_url: /2011/05/setup-adb-and-fastboot-with-android-sdk-on-mac-osx/
+  post_id: "576"
+- id: "189"
+  author_name: admin
+  author_email: thomas@wapnet.nl
+  author_url: http://wapnet.nl
+  published: 2011-11-18T21:29:37Z
+  parent_id: "0"
+  content: Yo people I greatly appreciate that you give so much feedback in the comments :) :) Tnx!
+  post_url: /2011/05/setup-adb-and-fastboot-with-android-sdk-on-mac-osx/
+  post_id: "576"
+- id: "190"
+  author_name: John
+  author_email: leschitzdpt@gmail.com
+  author_url: ""
+  published: 2011-11-19T03:27:11Z
+  parent_id: "0"
+  content: wouldn't have been able to root my xoom without your instructions and some a few comments.  thanks!
+  post_url: /2011/05/setup-adb-and-fastboot-with-android-sdk-on-mac-osx/
+  post_id: "576"
+- id: "191"
+  author_name: John
+  author_email: leschitzdpt@gmail.com
+  author_url: ""
+  published: 2011-11-19T03:30:16Z
+  parent_id: "0"
+  content: I wouldn't have been able to root my xoom without your instructions and some a few comments.  thanks!
+  post_url: /2011/05/setup-adb-and-fastboot-with-android-sdk-on-mac-osx/
+  post_id: "576"
+- id: "197"
+  author_name: HaYoung
+  author_email: bacchus@ubivelox.com
+  author_url: ""
+  published: 2011-12-14T10:21:38Z
+  parent_id: "0"
+  content: |-
+    After downloading fastboot and copying it into tools folder, I've tried to run it. But can't run it successfully.
+    MacBook-Air:kernel hayoung$ fastboot devices
+    ERROR: Unable to create a plug-in (e00002be)
+
+    Have you seen this before? Any help would be appreciated.
+  post_url: /2011/05/setup-adb-and-fastboot-with-android-sdk-on-mac-osx/
+  post_id: "576"
+- id: "198"
+  author_name: Nader
+  author_email: 2013nader@gmail.com
+  author_url: ""
+  published: 2011-12-19T08:42:58Z
+  parent_id: "0"
+  content: I am an extreme beginner at Terminal.\. I altered something after typing in ~/.bash_profile because another forum told me to do so unclearly and I screwed up. I did it incorrectly. Now I need to reenter  ~/.bash_profile to do it correctly and I am being denied permission. I have no idea what to do. If you could put the answer in babysteps that would be great because I have little to no idea what I am doing. Thanks in advance and sorry for the trouble.
+  post_url: /2011/05/setup-adb-and-fastboot-with-android-sdk-on-mac-osx/
+  post_id: "576"
+- id: "199"
+  author_name: carl
+  author_email: cfh.ser@gmail.com
+  author_url: ""
+  published: 2011-12-24T17:58:13Z
+  parent_id: "0"
+  content: |-
+    I first downloaded the latest SDK and then installed the platform tools.
+    I then set my XOOM to USB debugging mode.
+    When I ran "adb devices" it showed my XOOM.
+    However, when I ran "fastboot devices" nothing showed up :(
+    I had read that there was a fastboot-mac ... so I googled for it
+    and found this site. i then downloaded it and did "fastboot-mac devices"
+    and still nothing showed up :(
+    What am I doing wrong?
+  post_url: /2011/05/setup-adb-and-fastboot-with-android-sdk-on-mac-osx/
+  post_id: "576"
+- id: "204"
+  author_name: PacoBell
+  author_email: pacobell@gmail.com
+  author_url: ""
+  published: 2012-01-15T09:13:35Z
+  parent_id: "0"
+  content: 'Now that AOSP is hosting it''s own repo, I decided giving it a shot at building my own fastboot under OSX. Turns out it actually works! Now, there might be an easier way, but I ended up doing a repo sync on the entire master branch. That took freakin'' FOREVER! Afterward, however, I just followed the advice on this page and I got a working fastboot binary: http://source.android.com/source/building-devices.html'
+  post_url: /2011/05/setup-adb-and-fastboot-with-android-sdk-on-mac-osx/
+  post_id: "576"
+- id: "205"
+  author_name: b
+  author_email: brandontyra43@gmail.com
+  author_url: ""
+  published: 2012-01-16T03:45:55Z
+  parent_id: "0"
+  content: |-
+    when i click android my terminal comes up and says this....
+
+    Macintosh:~ brandonhunt$ /Users/brandonhunt/Desktop/android-sdk-macosx/tools/android ; exit;
+    SWT folder '/Users/brandonhunt/Desktop/android-sdk-macosx/tools/lib/ppc' does not exist.
+    Please export ANDROID_SWT to point to the folder containing swt.jar for your platform.
+    logout
+
+    [Process completed]
+
+
+    what do i have to do to complete these steps?
+  post_url: /2011/05/setup-adb-and-fastboot-with-android-sdk-on-mac-osx/
+  post_id: "576"
+- id: "206"
+  author_name: admin
+  author_email: thomas@wapnet.nl
+  author_url: http://wapnet.nl
+  published: 2012-01-26T20:20:14Z
+  parent_id: "0"
+  content: |-
+    Dude the fastboot is an intel package not an ibm/ppc package :P
+
+    try these @ XDA http://forum.xda-developers.com/showthread.php?t=898744
+
+    you need an account to download the file.
+  post_url: /2011/05/setup-adb-and-fastboot-with-android-sdk-on-mac-osx/
+  post_id: "576"
+- id: "227"
+  author_name: Coolk
+  author_email: ""
+  author_url: ""
+  published: 2012-05-06T11:44:37Z
+  parent_id: "0"
+  content: Thanks a lot!! This removes any need to go back to crappy windows :)
+  post_url: /2011/05/setup-adb-and-fastboot-with-android-sdk-on-mac-osx/
+  post_id: "576"
+- id: "261"
+  author_name: TomA
+  author_email: forum@tomaa.net
+  author_url: http://tomaa.net
+  published: 2012-08-27T21:50:53Z
+  parent_id: "0"
+  content: |-
+    Hi !
+
+    Thanks for your work. I've installed and setup the SDK.
+    The problem I have is that when I try to test the "fastboot-mac" command, i've no "answer" from the command just a new prompt.
+    My phone is an Xperia S and is linked to my MacBook in Fastboot mode. I'm running on Mac Os X Lion.
+    Do you have an idea?
+
+    Thx for your help :)
+  post_url: /2011/05/setup-adb-and-fastboot-with-android-sdk-on-mac-osx/
+  post_id: "576"
+- id: "262"
+  author_name: Thomas Faddegon
+  author_email: thomas@wapnet.nl
+  author_url: http://wapnet.nl
+  published: 2012-08-27T22:54:54Z
+  parent_id: "0"
+  content: "When I give the command fastboot mac this is my output:\n\nfastboot-mac\nusage: fastboot [ <option> ] <command>\n     \n    commands:\n      update <filename>                        reflash device from update.zip\n      flashall                                 flash boot + recovery + system\n      flash <partition> [ <filename> ]         write a file to a flash partition\n      erase <partition>                        erase a flash partition\n      getvar <variable>                        display a bootloader variable\n      boot <kernel> [ <ramdisk> ]              download and boot kernel\n      flash:raw boot <kernel> [ <ramdisk> ]    create bootimage and flash it\n      devices                                  list all connected devices\n      reboot                                   reboot device normally\n      reboot-bootloader                        reboot device into bootloader\n     \n    options:\n      -w                                       erase userdata and cache\n      -s <serial number>                       specify device serial number\n      -p <product>                             specify product name\n      -c <cmdline>                             override kernel commandline\n      -i <vendor id>                           specify a custom USB vendor id\n\nAnd when I give:\nfastboot-mac devices\nERROR: could not get pipe properties\n\nThe latest error is because my phone is not connected on the moment."
+  post_url: /2011/05/setup-adb-and-fastboot-with-android-sdk-on-mac-osx/
+  post_id: "576"
+- id: "263"
+  author_name: TomA
+  author_email: forum@tomaa.net
+  author_url: http://tomaa.net
+  published: 2012-08-27T23:19:05Z
+  parent_id: "0"
+  content: |-
+    Yes, I had the same error before (I thought it was because the SDK wasn't setup...).
+
+    Ok, i've understan my error :/
+    The file in the tools folder is called fastboot-mac but the command is "fastboot"...
+    When I use "$ fastboot devices" instead of "$ fastboot-mac devices" everything works.
+
+    Thanks for your answer it helps me to understand the result of the getvar version command too ;)
+
+    Your blog post helps me to write mine in french for the french people who don't understand english!
+  post_url: /2011/05/setup-adb-and-fastboot-with-android-sdk-on-mac-osx/
+  post_id: "576"
+- id: "264"
+  author_name: Thomas Faddegon
+  author_email: thomas@wapnet.nl
+  author_url: http://wapnet.nl
+  published: 2012-08-27T23:52:48Z
+  parent_id: "0"
+  content: Nice work :) Tnx for the feedback!
+  post_url: /2011/05/setup-adb-and-fastboot-with-android-sdk-on-mac-osx/
+  post_id: "576"
+- id: "322"
+  author_name: nokiboy
+  author_email: noki-boy@live.fr
+  author_url: ""
+  published: 2013-02-27T11:51:25Z
+  parent_id: "0"
+  content: |-
+    hi.
+    it's long time i look up for tuto to connect my phone with adb as far i have a mac...
+    found your blog and it seems pretty easy so i tried
+    just began to use terminal and all that stuff to connect my android phone to my mac.
+    i just finished to do all what you said, changed dir names cause they are different on my mac "android-sdk-mac-x86" instead of "android-sdk" in bash_profile and for all commands.
+    it was funny since it seemed to work but in fact it doesn't
+    i can't run adb nor fastboot-mac: examples of my screen
+    "
+    :platform-tools nokiboy$ adb
+    -bash: adb: command not found
+    "
+    if i run adb not from "terminal" but directly from "platform-tools", it runs, gives all instructions catalog and stops but never let me write a single character
+    "
+    :tools nokiboy$ ./fastboot-mac devices
+    ERROR: could not get pipe properties
+    "
+    i can't figure out what's wrong since i followed instructions step by step and i am beginner...
+    "tools" dir and "platform-tools" dir are placed in /users/nokiboy/Desktop/android-sdk-mac-X86/sdk/...
+    my phone is plugged on USB so far and configured "USB debug" and "charge mode"
+    i use syncmate 4.1.18 to sync my phone with my mac
+    hope this can help you to understand what's going on and then help me
+    thanks
+  post_url: /2011/05/setup-adb-and-fastboot-with-android-sdk-on-mac-osx/
+  post_id: "576"
+- id: "282"
+  author_name: pk jha
+  author_email: pradeepjha@in.com
+  author_url: ""
+  published: 2012-10-19T12:49:14Z
+  parent_id: "0"
+  content: nee crack (ANTIWPA-V3.4.6 FOR X64 AND X86.zip) for SP3
+  post_url: /2011/07/xp-sp3-activation-crack/
+  post_id: "594"
+- id: "397"
+  author_name: Thank you!
+  author_email: something@10minutemail.com
+  author_url: ""
+  published: 2013-06-05T12:59:56Z
+  parent_id: "0"
+  content: You are a saint amongst men!
+  post_url: /2011/10/winxp-windowssystem32configsystem-missing-or-corrupt/
+  post_id: "682"
+- id: "283"
+  author_name: KAmalkumar
+  author_email: ramkamalkumar@rediffmail.com
+  author_url: ""
+  published: 2012-10-25T12:20:10Z
+  parent_id: "0"
+  content: |-
+    Pls. send me the link for quick proxy server.
+
+
+    Thanks
+  post_url: /2011/10/quick-proxy-server-no-install-needed/
+  post_id: "713"
+- id: "284"
+  author_name: Kamalkumar
+  author_email: ramkamalkumar@rediffmail.com
+  author_url: ""
+  published: 2012-10-25T12:20:42Z
+  parent_id: "0"
+  content: pls sen me the link
+  post_url: /2011/10/quick-proxy-server-no-install-needed/
+  post_id: "713"
+- id: "304"
+  author_name: JVG
+  author_email: gmack523@gmail.com
+  author_url: ""
+  published: 2013-02-04T19:36:54Z
+  parent_id: "0"
+  content: |-
+    Hello,
+
+       Please send me the link so that I can download this software.
+
+    Thank You,
+    JVG
+  post_url: /2011/10/quick-proxy-server-no-install-needed/
+  post_id: "713"
+- id: "307"
+  author_name: Mephist0
+  author_email: ""
+  author_url: ""
+  published: 2013-02-11T16:11:00Z
+  parent_id: "0"
+  content: Guys, there is a link.. Check again!!!
+  post_url: /2011/10/quick-proxy-server-no-install-needed/
+  post_id: "713"
+- id: "195"
+  author_name: english essay
+  author_email: boguckieefkenyattadee@hotmail.com
+  author_url: http://english-essay-writing-help.org/index.php
+  published: 2011-11-30T09:52:26Z
+  parent_id: "0"
+  content: It's not very easy to do. People must have some experience for doing this.
+  post_url: /2011/11/create-a-bartpe-bootable-usb-stick/
+  post_id: "722"
+- id: "351"
+  author_name: Edwin
+  author_email: ""
+  author_url: ""
+  published: 2013-04-07T21:07:53Z
+  parent_id: "0"
+  content: thomaatje je link is dood http://www.megaupload.com/?d=AEC0GAMM
+  post_url: /2011/11/create-a-bartpe-bootable-usb-stick/
+  post_id: "722"
+- id: "352"
+  author_name: Thomas Faddegon
+  author_email: thomas@wapnet.nl
+  author_url: http://wapnet.nl
+  published: 2013-04-07T22:50:14Z
+  parent_id: "0"
+  content: Hmmmz ik zie het. Heb je al een alternatief gevonden?
+  post_url: /2011/11/create-a-bartpe-bootable-usb-stick/
+  post_id: "722"
+- id: "353"
+  author_name: Thomas Faddegon
+  author_email: thomas@wapnet.nl
+  author_url: http://wapnet.nl
+  published: 2013-04-07T22:54:12Z
+  parent_id: "0"
+  content: |-
+    @Edwin,
+
+    You can do it manually: http://www.msfn.org/board/topic/112630-0x0000007b-blue-screen-error-during-text-setup/page__p__738009#entry738009
+  post_url: /2011/11/create-a-bartpe-bootable-usb-stick/
+  post_id: "722"
+- id: "215"
+  author_name: James
+  author_email: Jamesbennett86@hotmail.com
+  author_url: http://
+  published: 2012-03-23T09:01:26Z
+  parent_id: "0"
+  content: You are my hero, seriously, I could kiss you. You win the internet
+  post_url: /2011/11/cyanogenmod-7-move-all-applications-to-sdcard-without-data-loss/
+  post_id: "731"
+- id: "216"
+  author_name: admin
+  author_email: thomas@wapnet.nl
+  author_url: http://wapnet.nl
+  published: 2012-03-23T09:35:00Z
+  parent_id: "0"
+  content: Haha you're welcome :)
+  post_url: /2011/11/cyanogenmod-7-move-all-applications-to-sdcard-without-data-loss/
+  post_id: "731"
+- id: "220"
+  author_name: Neil
+  author_email: Neil.sumner@btinternet.com
+  author_url: ""
+  published: 2012-04-08T12:02:48Z
+  parent_id: "0"
+  content: This is great, many thanks. I couldn't move my apps off the sd card but I now have 120MB free :0)
+  post_url: /2011/11/cyanogenmod-7-move-all-applications-to-sdcard-without-data-loss/
+  post_id: "731"
+- id: "233"
+  author_name: Michael
+  author_email: ""
+  author_url: ""
+  published: 2012-05-22T09:15:40Z
+  parent_id: "0"
+  content: Thank you very much for this! This was the difference that made sure i didnt buy a new phone in frustration
+  post_url: /2011/11/cyanogenmod-7-move-all-applications-to-sdcard-without-data-loss/
+  post_id: "731"
+- id: "235"
+  author_name: J
+  author_email: jegaudin@gmail.com
+  author_url: ""
+  published: 2012-06-07T21:37:09Z
+  parent_id: "0"
+  content: "Simple, efficient: great! \nFeeling like I just bought a new phone! thanks a lot"
+  post_url: /2011/11/cyanogenmod-7-move-all-applications-to-sdcard-without-data-loss/
+  post_id: "731"
+- id: "253"
+  author_name: David
+  author_email: davidhdeze@gmail.com
+  author_url: ""
+  published: 2012-08-10T12:40:28Z
+  parent_id: "0"
+  content: I'm very grateful. Thank you very much.
+  post_url: /2011/11/cyanogenmod-7-move-all-applications-to-sdcard-without-data-loss/
+  post_id: "731"
+- id: "256"
+  author_name: E
+  author_email: sjobergeric@hotmail.com
+  author_url: ""
+  published: 2012-08-19T05:57:31Z
+  parent_id: "0"
+  content: Worked like a charm and kept me from having to get a new phone.
+  post_url: /2011/11/cyanogenmod-7-move-all-applications-to-sdcard-without-data-loss/
+  post_id: "731"
+- id: "278"
+  author_name: uj
+  author_email: test@teast.com
+  author_url: ""
+  published: 2012-10-09T10:34:53Z
+  parent_id: "0"
+  content: |-
+    Thanks a lotttttt buddy ... this was reallllllly great .... I did all the partitions &amp; stuff, but I didn't finally know how to move stuff into that section.
+
+    Really well explained and was a breeze ... well done!
+  post_url: /2011/11/cyanogenmod-7-move-all-applications-to-sdcard-without-data-loss/
+  post_id: "731"
+- id: "295"
+  author_name: Chris
+  author_email: ""
+  author_url: ""
+  published: 2012-12-20T06:03:01Z
+  parent_id: "0"
+  content: |-
+    I just bought zbox nano ad12 but I can't boot from SD card, only USB. Is there some kind of trick to make it work ?
+    Thanks
+  post_url: /2011/12/build-your-own-xbmc-htpc-media-center/
+  post_id: "734"
+- id: "297"
+  author_name: Thomas Faddegon
+  author_email: thomas@wapnet.nl
+  author_url: http://wapnet.nl
+  published: 2012-12-21T19:51:01Z
+  parent_id: "295"
+  content: I think it must work because it is a default option in all the current (zbox) biosses. But I don't have a zbox nano to test it for you.
+  post_url: /2011/12/build-your-own-xbmc-htpc-media-center/
+  post_id: "734"
+- id: "208"
+  author_name: bertje
+  author_email: bertram@bertnet.nl
+  author_url: http://www.weldepiratenbaai.nl
+  published: 2012-02-02T22:13:21Z
+  parent_id: "0"
+  content: Had maar een verbinding genomen bij een echte provider. :)
+  post_url: /2012/02/the-pirate-bay-mirrors/
+  post_id: "783"
+- id: "209"
+  author_name: admin
+  author_email: thomas@wapnet.nl
+  author_url: http://wapnet.nl
+  published: 2012-02-03T08:37:59Z
+  parent_id: "0"
+  content: "Hahaha we zullen zien wanneer kpn en bbned zwichten :P Maar misschien winnen Ziggo en XS44ALL wel in hoger beroep. \n[quote]\nDeze website is momenteel niet bereikbaar. Op verzoek van de Stichting Brein heeft de Rechtbank Ziggo bevolen uw toegang tot websites van The Pirate Bay te blokkeren. Ziggo is het niet eens met dat bevel en gaat tegen deze uitspraak van de Rechtbank in beroep. In afwachting van een beslissing in het Hoger Beroep is Ziggo gedwongen de uitspraak van de Rechtbank op te volgen. De uitspraak van de Rechtbank kunt u in z'n geheel terugvinden op http://zoeken.rechtspraak.nl/detailpage.aspx?ljn=BV0549&u_ljn=BV0549.\n[/quote]"
+  post_url: /2012/02/the-pirate-bay-mirrors/
+  post_id: "783"
+- id: "211"
+  author_name: Freddy
+  author_email: adaanen@home.nl
+  author_url: ""
+  published: 2012-02-29T20:34:44Z
+  parent_id: "0"
+  content: Maar het werkt super!!
+  post_url: /2012/02/the-pirate-bay-mirrors/
+  post_id: "783"
+- id: "212"
+  author_name: admin
+  author_email: thomas@wapnet.nl
+  author_url: http://wapnet.nl
+  published: 2012-02-29T22:19:11Z
+  parent_id: "0"
+  content: Haha mooi zo :)
+  post_url: /2012/02/the-pirate-bay-mirrors/
+  post_id: "783"
+- id: "222"
+  author_name: honger
+  author_email: ""
+  author_url: ""
+  published: 2012-04-21T23:56:40Z
+  parent_id: "0"
+  content: GEWOON VIA PROXYS ,LEGAAL OOK NOG. FUCK BREIN.
+  post_url: /2012/02/the-pirate-bay-mirrors/
+  post_id: "783"
+- id: "225"
+  author_name: Bert
+  author_email: Bert@ernie.net
+  author_url: http://www.bertnernie.org
+  published: 2012-05-02T19:43:13Z
+  parent_id: "0"
+  content: Thank you for the mirror. Virgin Media are blocking piratebay but this mirror works ! TY ! LONG LIVE A FREE INTERNET !
+  post_url: /2012/02/the-pirate-bay-mirrors/
+  post_id: "783"
+- id: "226"
+  author_name: Ben Annett
+  author_email: ben@annett.me.uk
+  author_url: http://annett.me.uk/
+  published: 2012-05-03T21:03:01Z
+  parent_id: "0"
+  content: |-
+    My favourite is https://tpb.pirateparty.org.uk/
+
+    How much have the lawyers made to get this pointless court order? Anyone with access to Google can get around it.
+
+    Or are they going to block Google next?
+  post_url: /2012/02/the-pirate-bay-mirrors/
+  post_id: "783"
+- id: "276"
+  author_name: rimax#.eu.ch
+  author_email: user.account@gmx.ch
+  author_url: http://www.wikileaks.ch/
+  published: 2012-10-02T11:27:37Z
+  parent_id: "0"
+  content: |-
+    Hallo Wapnet Blog
+
+    I want to ask, wehn will go http://thepiratebay.se/ site again online?
+    Waths the reson, that's the site is ofline?
+
+    Today is "02.10.2012-11:11" Site still not ofline.
+    @:-(
+
+
+
+    Have a nice surf!!!
+
+
+    rimax#.eu.ch
+  post_url: /2012/02/the-pirate-bay-mirrors/
+  post_id: "783"
+- id: "277"
+  author_name: Thomas Faddegon
+  author_email: thomas@wapnet.nl
+  author_url: http://wapnet.nl
+  published: 2012-10-03T22:28:36Z
+  parent_id: "0"
+  content: |-
+    @rimax,
+
+    I think never. Maybe it's blocked in your country too. Try http://malaysiabay.org:6081/ for a proxy.
+  post_url: /2012/02/the-pirate-bay-mirrors/
+  post_id: "783"
+- id: "280"
+  author_name: Siva
+  author_email: siva@otnf.ca
+  author_url: ""
+  published: 2012-10-11T03:16:12Z
+  parent_id: "0"
+  content: |-
+    There's a big list of proxies here: http://proxybay.info/
+    A good proxy: http://pirateproxy.net/
+  post_url: /2012/02/the-pirate-bay-mirrors/
+  post_id: "783"
+- id: "288"
+  author_name: ""
+  author_email: ""
+  author_url: ""
+  published: 2012-11-24T16:48:29Z
+  parent_id: "0"
+  content: www.mirrorbay.net maintains a list of up to date mirrors that allows access to The Pirate Bay.
+  post_url: /2012/02/the-pirate-bay-mirrors/
+  post_id: "783"
+- id: "306"
+  author_name: Cassandra
+  author_email: casson57@hotmail.com
+  author_url: ""
+  published: 2013-02-07T09:59:27Z
+  parent_id: "0"
+  content: <a href="http://piratebayaccess.in/" rel="nofollow">Click Here</a> it's a maintain and safe proxy for Pirate Bay.
+  post_url: /2012/02/the-pirate-bay-mirrors/
+  post_id: "783"
+- id: "309"
+  author_name: Joey
+  author_email: Joey.vanzwieten@gmail.com
+  author_url: http://tpbmirrors.blogspot.com/
+  published: 2013-02-14T21:46:06Z
+  parent_id: "0"
+  content: |-
+    Check http://tpbmirrors.blogspot.com/ for the fastest TPB-mirrors which are checked daily for ping-speed and availability.
+    If we reach 120 visitors/day, we will host our own super-speed (120Mbit) TPB-mirror!
+  post_url: /2012/02/the-pirate-bay-mirrors/
+  post_id: "783"
+- id: "315"
+  author_name: Brian
+  author_email: briangoodin@gmail.com
+  author_url: ""
+  published: 2013-02-18T11:20:46Z
+  parent_id: "0"
+  content: "A colleague linked me to your site. Thank you for \nthe information."
+  post_url: /2012/02/the-pirate-bay-mirrors/
+  post_id: "783"
+- id: "366"
+  author_name: Henry
+  author_email: hency92@hotmail.com
+  author_url: http://none
+  published: 2013-04-23T18:20:04Z
+  parent_id: "0"
+  content: |-
+    Hi,
+
+    I found two mirrors, one is for TPB and one is for KAT
+
+    The Pirate Bay Mirror:
+    http://baymirror.com/
+
+    Kick Ass Torrents Mirror:
+    http://katmirror.com/
+  post_url: /2012/02/the-pirate-bay-mirrors/
+  post_id: "783"
+- id: "230"
+  author_name: Phil Reyes
+  author_email: ""
+  author_url: ""
+  published: 2012-05-17T05:45:48Z
+  parent_id: "0"
+  content: Hello There. I tried your suggestion and it worked.
+  post_url: /2012/03/windows-7-error-cant-activate-0x8007007b/
+  post_id: "808"
+- id: "231"
+  author_name: admin
+  author_email: thomas@wapnet.nl
+  author_url: http://wapnet.nl
+  published: 2012-05-17T10:32:19Z
+  parent_id: "0"
+  content: Nice to hear that :) The solution helps me twice too :)
+  post_url: /2012/03/windows-7-error-cant-activate-0x8007007b/
+  post_id: "808"
+- id: "239"
+  author_name: Walt van Meer
+  author_email: walt.dilago@gmail.com
+  author_url: ""
+  published: 2012-07-05T19:22:37Z
+  parent_id: "0"
+  content: Thanks a lot, worked for me too !  This is a lot faster than uninstalling and reinstalling.
+  post_url: /2012/03/windows-7-error-cant-activate-0x8007007b/
+  post_id: "808"
+- id: "240"
+  author_name: jose luis
+  author_email: joseluisgar@gmail.com
+  author_url: ""
+  published: 2012-07-13T10:18:23Z
+  parent_id: "0"
+  content: Thanks. It works.
+  post_url: /2012/03/windows-7-error-cant-activate-0x8007007b/
+  post_id: "808"
+- id: "254"
+  author_name: Jon Huntley
+  author_email: jon3030@talktalk.net
+  author_url: ""
+  published: 2012-08-11T18:22:22Z
+  parent_id: "0"
+  content: Fantastic!  You turned a horror story into an easy solution.  I really appreciate your time and help with this.
+  post_url: /2012/03/windows-7-error-cant-activate-0x8007007b/
+  post_id: "808"
+- id: "257"
+  author_name: bigmac
+  author_email: bigmac@mcdonalds.com
+  author_url: http://www.mcdonalds.com
+  published: 2012-08-19T07:41:44Z
+  parent_id: "0"
+  content: thank you this worked
+  post_url: /2012/03/windows-7-error-cant-activate-0x8007007b/
+  post_id: "808"
+- id: "258"
+  author_name: Maddin
+  author_email: imaddin@outlook.com
+  author_url: ""
+  published: 2012-08-24T09:36:48Z
+  parent_id: "0"
+  content: Thank a lot - works great!
+  post_url: /2012/03/windows-7-error-cant-activate-0x8007007b/
+  post_id: "808"
+- id: "259"
+  author_name: assenav
+  author_email: phane_hades@yahoo.com
+  author_url: ""
+  published: 2012-08-24T10:49:16Z
+  parent_id: "0"
+  content: thanks, just so you know, this article helps me with my activation.
+  post_url: /2012/03/windows-7-error-cant-activate-0x8007007b/
+  post_id: "808"
+- id: "265"
+  author_name: Runner
+  author_email: ronny.holmstrom@gmail.com
+  author_url: ""
+  published: 2012-08-31T15:18:49Z
+  parent_id: "0"
+  content: Cool, thanks alot! My Win 8 refused to activate after upgrading from Win7
+  post_url: /2012/03/windows-7-error-cant-activate-0x8007007b/
+  post_id: "808"
+- id: "266"
+  author_name: Diggu
+  author_email: ""
+  author_url: ""
+  published: 2012-09-05T16:53:40Z
+  parent_id: "0"
+  content: its not working giving error 0xC004F050. HELP
+  post_url: /2012/03/windows-7-error-cant-activate-0x8007007b/
+  post_id: "808"
+- id: "291"
+  author_name: Alex
+  author_email: ""
+  author_url: ""
+  published: 2012-12-01T23:20:28Z
+  parent_id: "0"
+  content: You, sir, are a scholar and a gentleman. You have saved me much trouble.
+  post_url: /2012/03/windows-7-error-cant-activate-0x8007007b/
+  post_id: "808"
+- id: "294"
+  author_name: armash
+  author_email: armash.fankar@aol.com
+  author_url: ""
+  published: 2012-12-07T22:44:48Z
+  parent_id: "0"
+  content: no its not working...still getting the same error 0x8007007B
+  post_url: /2012/03/windows-7-error-cant-activate-0x8007007b/
+  post_id: "808"
+- id: "252"
+  author_name: Tom
+  author_email: t.meulensteen@gmail.com
+  author_url: ""
+  published: 2012-08-06T22:15:03Z
+  parent_id: "0"
+  content: "Fucking held!! \n\nHad openelec geupdate en geluid was weg.\nEn dit werkt dus :)"
+  post_url: /2012/04/sound-over-hdmi-on-ion2-systems/
+  post_id: "834"
+- id: "249"
+  author_name: Steve Sutton
+  author_email: ""
+  author_url: ""
+  published: 2012-08-01T10:00:17Z
+  parent_id: "0"
+  content: |-
+    I had the same problem, your solution worked, I investigated further and found that removing  from rsreportserver.config fixed it without the need for users to enter the server name or domain during log in.
+
+    Thanks for your post.
+  post_url: /2012/04/sql-reporting-services-slow-with-internet-explorer/
+  post_id: "853"
+- id: "250"
+  author_name: admin
+  author_email: thomas@wapnet.nl
+  author_url: http://wapnet.nl
+  published: 2012-08-01T11:25:09Z
+  parent_id: "0"
+  content: Tnx Steve for your feedback :)
+  post_url: /2012/04/sql-reporting-services-slow-with-internet-explorer/
+  post_id: "853"
+- id: "248"
+  author_name: admin
+  author_email: thomas@wapnet.nl
+  author_url: http://wapnet.nl
+  published: 2012-07-28T13:39:07Z
+  parent_id: "0"
+  content: 'If you had any problem and you want to remove all the ATI try: http://wiki.cchtml.com/index.php/Ubuntu_Natty_Installation_Guide#Removing_Catalyst.2Ffglrx'
+  post_url: /2012/07/ubuntu-12-04-install-ati-videodrivers/
+  post_id: "947"
+- id: "345"
+  author_name: Eminem
+  author_email: ""
+  author_url: ""
+  published: 2013-04-02T13:52:31Z
+  parent_id: "0"
+  content: |-
+    Thanks!
+
+    works perfectly.
+  post_url: /2012/08/error-29528-when-installing-sql-service-pack-4/
+  post_id: "956"
+- id: "367"
+  author_name: Edwin de Bruin
+  author_email: Ejdebruin1983@gmail.com
+  author_url: ""
+  published: 2013-04-26T14:59:18Z
+  parent_id: "0"
+  content: |-
+    I also suggest to enable the following setting in a GPO
+
+    "Add the Administrator security group to the roaming user profile share"
+    found at Computer Configuration\Administrative Templates\System\User Profiles
+  post_url: /2012/08/access-denied-roaming-profile/
+  post_id: "961"
+- id: "369"
+  author_name: Thomas Faddegon
+  author_email: thomas@wapnet.nl
+  author_url: http://wapnet.nl
+  published: 2013-04-26T22:50:51Z
+  parent_id: "0"
+  content: Tnx for the feedback :-)
+  post_url: /2012/08/access-denied-roaming-profile/
+  post_id: "961"
+- id: "480"
+  author_name: Christian
+  author_email: tkg_cmt@hotmail.com
+  author_url: ""
+  published: 2017-03-03T00:25:00Z
+  parent_id: "0"
+  content: Thank you!
+  post_url: /2015/02/super-portable-without-adware/
+  post_id: "1599"

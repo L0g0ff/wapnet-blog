@@ -1,0 +1,55 @@
+baseURL: https://blog.wapnet.nl
+locale: en-US
+title: Wapnet Blog
+theme: PaperMod
+taxonomies:
+  category: categories
+  tag: tags
+permalinks:
+  term:
+    categories: /category/:slug/
+    tags: /tag/:slug/
+params:
+  description: 'By: Thomas Faddegon'
+  defaultTheme: auto
+  disableThemeToggle: true
+  showShareButtons: true
+  showReadingTime: true
+  showToc: false
+  showBreadCrumbs: true
+  showCodeCopyButtons: true
+  comments: true
+  hideFooter: true
+  assets:
+    favicon: /favicon.ico
+    disableHLJS: true
+  author:
+    name: Thomas Faddegon
+markup:
+  highlight:
+    codeFences: true
+    guessSyntax: true
+    style: monokai
+  goldmark:
+    renderer:
+      unsafe: true
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+outputFormats:
+  RSS:
+    mediaType: application/rss+xml
+    baseName: feed
+menu:
+  main:
+    - name: About
+      url: /about/
+      weight: 10
+    - name: Archives
+      url: /all/
+      weight: 20
+    - name: Search
+      url: /search/
+      weight: 30

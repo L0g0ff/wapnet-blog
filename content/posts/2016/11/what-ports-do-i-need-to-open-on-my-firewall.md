@@ -1,0 +1,51 @@
+---
+_edit_last: "1"
+author: thomasf
+categories:
+  - uncategorized
+date: "2016-11-06T01:28:20+00:00"
+draft: true
+guid: https://blog.wapnet.nl/?p=115
+parent_post_id: null
+post_id: "115"
+title: What Ports do I need to open on my Firewall?
+url: /
+
+---
+August 20, 2008 by Curtis Johnstone
+
+The first question often asked when exposing OCS functionality to the Internet is “what ports do I need to open on my firewall?”.
+
+The answer depends on which Edge functionality (and the associated Role), being exposed to the Internet. Below is a concise recap of the default Ports that need to be opened to expose specific OCS functionality to remote users (on the Internet).
+
+Edge Role
+ Functionality
+ External F/W Port
+ Internal F/W Port
+ Protocol
+
+Reverse Proxy
+ Address Book, File Download, etc…
+ 443
+ 443
+ HTTP(S)
+
+Access
+ Remote IM and Presence, Federation, Public IM
+ 443, 5061
+ 5061
+ SIP/MTLS
+
+Web Conferencing
+ External Web Conf Participation
+ 443
+ 8057
+ PSOM/MTLS
+
+Audio/Video Conferencing
+ External A/V Conf Participation
+ 443, 3478, 50,000-59,999
+ 443, 5062, 3478
+ STUN
+
+Chapter 2.3 of the Office Communications Server 2007 Document: Edge Server Deployment Guide provides more detail, including the associated Firewall policies.

@@ -17,7 +17,7 @@ concurrency:
 env:
   HUGO_VERSION: 0.168.0
   # Switch to "production" at DNS cutover; anything else renders noindex.
-  HUGO_ENVIRONMENT: staging
+  HUGO_ENVIRONMENT: production
 
 jobs:
   build:

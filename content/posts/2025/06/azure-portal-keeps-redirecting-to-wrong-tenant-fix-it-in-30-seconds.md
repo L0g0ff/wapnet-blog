@@ -9,6 +9,9 @@ post_id: "2242"
 title: Azure Portal Keeps Redirecting to Wrong Tenant? Fix It in 30 Seconds
 url: /2025/06/azure-portal-keeps-redirecting-to-wrong-tenant-fix-it-in-30-seconds/
 
+cover:
+  image: /images/covers/azure-portal-keeps-redirecting-to-wrong-tenant-fix-it-in-30-seconds.jpg
+  alt: Confused browser cloud being redirected away from the wrong building to the right one, with a stopwatch
 ---
 ## The Problem
 

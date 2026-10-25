@@ -10,6 +10,9 @@ post_id: "2245"
 title: Automating Windows Updates Across Multiple Servers with PowerShell
 url: /2025/06/automating-windows-updates-across-multiple-servers-with-powershell/
 
+cover:
+  image: /images/covers/automating-windows-updates-across-multiple-servers-with-powershell.jpg
+  alt: Laptop terminal pushing scheduled updates to a row of servers that all report success
 ---
 Managing Windows updates across multiple servers doesn't have to be a manual, time-consuming process. With PowerShell and the PSWindowsUpdate module, you can automate the entire update process from a single session.
 

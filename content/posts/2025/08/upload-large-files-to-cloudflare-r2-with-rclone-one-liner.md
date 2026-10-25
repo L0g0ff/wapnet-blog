@@ -10,6 +10,9 @@ post_id: "2248"
 title: Upload Large Files to Cloudflare R2 with rclone (One-liner)
 url: /2025/08/upload-large-files-to-cloudflare-r2-with-rclone-one-liner/
 
+cover:
+  image: /images/covers/upload-large-files-to-cloudflare-r2-with-rclone-one-liner.jpg
+  alt: Large file split into chunks uploading in parallel from a terminal to a cloud bucket
 ---
 I have a custom operating system with the name KompassOS ([www.kompassos.nl](http://www.kompassos.nl)) and sometimes we need to upload big ISO files to cloudflare. But if the files all the files bigger than 300MB you have to upload with the S3 API.
 

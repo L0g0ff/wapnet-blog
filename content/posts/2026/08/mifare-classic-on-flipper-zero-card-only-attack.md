@@ -9,6 +9,9 @@ post_id: "2306"
 title: 'MIFARE Classic on Flipper Zero: Card-Only Attack'
 url: /2026/08/mifare-classic-on-flipper-zero-card-only-attack/
 
+cover:
+  image: /images/covers/mifare-classic-on-flipper-zero-card-only-attack.jpg
+  alt: Handheld gadget reading an RFID access card with keys coming from a laptop
 ---
 _For educational and research purposes only - only test systems you own or have explicit permission to test._
 

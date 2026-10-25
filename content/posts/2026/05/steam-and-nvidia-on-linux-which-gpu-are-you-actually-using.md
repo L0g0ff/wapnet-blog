@@ -10,6 +10,9 @@ post_id: "2293"
 title: Steam and NVIDIA on Linux - which GPU are you actually using?
 url: /2026/05/steam-and-nvidia-on-linux-which-gpu-are-you-actually-using/
 
+cover:
+  image: /images/covers/steam-and-nvidia-on-linux-which-gpu-are-you-actually-using.jpg
+  alt: Gaming laptop on an airplane tray with a switch choosing between two graphics cards
 ---
 Somewhere over the Atlantic (on a plane heading to holiday) I had some spare battery so I was forced had to figure out something that had been bugging me for a while: when gaming on my Linux laptop, I never really knew whether Steam was using the NVIDIA GPU or the integrated Intel chip. No internet, but I did have a terminal. What follows is half an hour of trial and error at 10 kilometres altitude.
 

@@ -10,6 +10,9 @@ post_id: "2301"
 title: WSUS Doesn't Tell You What You're Missing - Here's How to Find Out
 url: /2026/06/wsus-doesnt-tell-you-what-youre-missing-heres-how-to-find-out/
 
+cover:
+  image: /images/covers/wsus-doesnt-tell-you-what-youre-missing-heres-how-to-find-out.jpg
+  alt: Server next to a checklist where a magnifying glass reveals missed update boxes
 ---
 If you manage Windows updates through WSUS, you've probably been there: a server is missing patches, you dig into it, and it turns out the product category was never enabled in WSUS. No warning, no report - it just silently never synced those updates.
 

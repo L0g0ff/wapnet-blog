@@ -13,6 +13,9 @@ tags:
 title: Fast Android backup with ADB
 url: /2025/09/fast-android-backup-with-adb/
 
+cover:
+  image: /images/covers/fast-android-backup-with-adb.jpg
+  alt: Phone connected over USB to a laptop streaming photos, music and apps into a backup box
 ---
 Want to create a full backup of your Android phone without root access? ADB (Android Debug Bridge) is your best friend. This method works on all Android versions and gives you complete control over what gets backed up.
 

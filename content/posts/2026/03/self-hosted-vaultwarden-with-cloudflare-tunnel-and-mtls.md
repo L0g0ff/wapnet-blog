@@ -11,6 +11,9 @@ post_id: "2272"
 title: Self-hosted Vaultwarden with Cloudflare Tunnel and mTLS
 url: /2026/03/self-hosted-vaultwarden-with-cloudflare-tunnel-and-mtls/
 
+cover:
+  image: /images/covers/self-hosted-vaultwarden-with-cloudflare-tunnel-and-mtls.jpg
+  alt: Home vault server connected through a secure tunnel to the cloud with two certificates shaking hands
 ---
 I was using tailscale + vaultwarden before but I don't want to use a VPN connection to access my passwords. But I do want a client certificate for extra security.
 

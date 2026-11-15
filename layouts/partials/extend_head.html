@@ -12,8 +12,24 @@
   [data-theme="dark"] .header, [data-theme="dark"] .main, [data-theme="dark"] .footer {
     background: rgb(29 30 32 / .92);
   }
+  /* Frosted glass: blur the photo behind the panel so text stays calm. */
+  @supports (backdrop-filter: blur(1px)) or (-webkit-backdrop-filter: blur(1px)) {
+    .header, .main, .footer {
+      background: rgb(255 255 255 / .78);
+      -webkit-backdrop-filter: blur(16px) saturate(1.3);
+      backdrop-filter: blur(16px) saturate(1.3);
+    }
+    [data-theme="dark"] .header, [data-theme="dark"] .main, [data-theme="dark"] .footer {
+      background: rgb(29 30 32 / .8);
+    }
+  }
   @media (max-width: 768px) {
     body, body.list, [data-theme] body.list { background-attachment: scroll; }
   }
 </style>
 {{- end }}
+
+{{- /* Same view-transition name as this post's card on the list pages, so the cover morphs. */}}
+{{- if .IsPage }}{{ with .File }}
+<style>.post-single .entry-cover { view-transition-name: p{{ .UniqueID }}; }</style>
+{{- end }}{{ end }}

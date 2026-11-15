@@ -1,0 +1,41 @@
+/* Green accent taken from the background photo and post covers. */
+:root { --accent: #1b7f3b; --accent-glow: rgb(76 195 95 / .35); }
+:root[data-theme="dark"] { --accent: #6ee07f; }
+
+::selection { background: var(--accent); color: var(--theme); }
+.post-content a, .post-content a code { color: var(--accent); }
+#menu a:hover, #menu .active { color: var(--accent); }
+
+/* Cards: accent border and glow; the cover is clipped so it can zoom. */
+.entry-cover { overflow: hidden; border-radius: var(--radius); }
+.post-entry:hover, .post-entry:focus-within {
+  border-color: var(--accent);
+  box-shadow: 0 8px 28px var(--accent-glow);
+}
+.post-entry .entry-cover, .first-entry .entry-cover { view-transition-name: var(--vt, none); }
+
+@media (prefers-reduced-motion: no-preference) {
+  /* Cross-fade between pages; the cover morphs from card to post. */
+  @view-transition { navigation: auto; }
+
+  .post-entry { transition: transform .25s ease, box-shadow .25s ease, border-color .25s ease; }
+  .post-entry:hover, .post-entry:focus-within { transform: translateY(-4px); }
+  .entry-cover img { transition: transform .4s ease; }
+  :is(.post-entry, .first-entry):hover .entry-cover img { transform: scale(1.04); }
+
+  /* Reading progress bar on posts and pages. */
+  @supports (animation-timeline: scroll()) {
+    body:not(.list)::before {
+      content: "";
+      position: fixed;
+      inset: 0 0 auto;
+      height: 3px;
+      z-index: 10;
+      background: var(--accent);
+      transform-origin: 0 50%;
+      animation: read-progress linear both;
+      animation-timeline: scroll(root);
+    }
+    @keyframes read-progress { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+  }
+}

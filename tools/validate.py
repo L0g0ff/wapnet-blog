@@ -83,7 +83,7 @@ def main():
     assert not re.search(r"\\\[(?:code|paypal-donation)(?:[^]]*)\\\]", content, re.I)
     homepage = (PUBLIC / "index.html").read_text(encoding="utf-8")
     assert "Wapnet Blog" in homepage
-    assert "MIFARE Classic on Flipper Zero" in homepage
+    assert re.search(r'class=["\']?entry-header(?:["\'\s>])', homepage), "Homepage has no post entries"
     assert "example.org" not in homepage
 
     print(

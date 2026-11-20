@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Screen bright (level 2)
+Exec=sh -c "\"$HOME/.local/bin/helder\" 2 && notify-send -a Helder -i display-brightness \"Screen brightness\" \"Level 2 enabled\""
+NoDisplay=true
+StartupNotify=false
+X-KDE-GlobalAccel-CommandShortcut=true

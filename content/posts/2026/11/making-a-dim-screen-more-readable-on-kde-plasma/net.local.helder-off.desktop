@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Screen bright off
+Exec=sh -c "\"$HOME/.local/bin/helder\" off && notify-send -a Helder -i display-brightness \"Screen brightness\" \"Standard sRGB restored\""
+NoDisplay=true
+StartupNotify=false
+X-KDE-GlobalAccel-CommandShortcut=true

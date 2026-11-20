@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+# Lift midtones through KWin color management; no backlight change.
+set -euo pipefail
+OUT="${HELDER_OUTPUT:-eDP-1}"
+DIR="$HOME/.local/share/icc"
+case "${1:-status}" in
+  1|2|3)
+    profile="$DIR/helder-$1.icc"
+    [[ -r "$profile" ]] || { echo "Missing profile: $profile" >&2; exit 1; }
+    kscreen-doctor "output.$OUT.iccprofile.$profile" "output.$OUT.colorProfileSource.ICC"
+    ;;
+  off|uit|0) kscreen-doctor "output.$OUT.colorProfileSource.sRGB" ;;
+  status) kscreen-doctor -o ;;
+  *) echo "Usage: helder {1|2|3|off|status}" >&2; exit 1 ;;
+esac
